@@ -8,7 +8,7 @@
          ('Bamban', 'Jln.Damai T4', 'Teknik mesin'),
          ('Salim maulana', 'Jln.Damai T5', 'sistem infomasi');
       
-   memasukan  data ke dalam tabel courses
+ --memasukan  data ke dalam tabel courses
    INSERT INTO courses(course_name, duration)
    VALUE   ('PENGANTAR TEKNIK MESIN', 90),
            ('MEKANIKA KEKUATAN MATERIAL', 120),
