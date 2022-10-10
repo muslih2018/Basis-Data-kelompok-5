@@ -16,7 +16,7 @@ CREATE TABLE student_info (
 );
 
 
---  membuat tabel
+--  membuat tabel courses
 
 CREATE TABLE courses (
 	course_id INT NOT NULL AUTO_INCREMENT,
